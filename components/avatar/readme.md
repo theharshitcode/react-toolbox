@@ -1,6 +1,6 @@
 # Avatar
 
-Avatars are used to represent individuals or brands. They allow users to personalize their own image or display a default one. When paired with a specific logo, avatars can also represent a brand identity in your application.
+🤖Avatars are used to represent individuals or brands. They allow users to personalize their own image or display a default one. When paired with a specific logo, avatars can also represent a brand identity in your application.
 
 <!-- example -->
 ```jsx
